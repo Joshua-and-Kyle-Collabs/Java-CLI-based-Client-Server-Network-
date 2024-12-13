@@ -1,4 +1,4 @@
-# Client-Server Network Application - README
+# Client-Server Network Application
 
 ## Overview
 
